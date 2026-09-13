@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-09-13T07:11:11.402Z",
+  "lastUpdated": "2026-09-13T10:36:48.430Z",
   "sourceFileName": "Trace Report.xlsx",
   "totalCases": 12079,
-  "openCases": 2495,
-  "closedCases": 9584,
-  "resolutionRate": 79.3,
+  "openCases": 2494,
+  "closedCases": 9585,
+  "resolutionRate": 79.4,
   "avgDurationDays": 2.7,
-  "over3DayCases": 2365,
+  "over3DayCases": 2366,
   "tracerStats": [
     {
       "name": "Shihab",
@@ -81,9 +81,9 @@
     {
       "name": "Zahid",
       "total": 189,
-      "open": 4,
-      "closed": 185,
-      "avgDuration": 2.5
+      "open": 3,
+      "closed": 186,
+      "avgDuration": 2.6
     },
     {
       "name": "Mahfuz",
@@ -861,7 +861,7 @@
     {
       "month": "2026-09",
       "opened": 317,
-      "closed": 429
+      "closed": 430
     },
     {
       "month": "2026-11",
