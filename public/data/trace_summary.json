@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-13T10:54:44.019Z",
+  "lastUpdated": "2026-09-13T10:55:31.706Z",
   "sourceFileName": "Trace Report.xlsx",
   "totalCases": 10159,
   "openCases": 574,
@@ -768,7 +768,7 @@
   "topShippers": [
     {
       "shipper": "Unspecified Shipper",
-      "count": 237
+      "count": 236
     },
     {
       "shipper": "EPIC GARMENTS MANUFACTURING CO. LTD",
@@ -860,7 +860,7 @@
     },
     {
       "month": "2026-09",
-      "opened": 317,
+      "opened": 318,
       "closed": 430
     },
     {
