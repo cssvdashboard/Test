@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-09-13T11:36:19.369Z",
+  "lastUpdated": "2026-09-13T11:36:47.663Z",
   "sourceFileName": "Trace Report.xlsx",
   "totalCases": 10159,
-  "openCases": 573,
-  "closedCases": 9586,
+  "openCases": 570,
+  "closedCases": 9589,
   "resolutionRate": 94.4,
   "avgDurationDays": 2.7,
-  "over3DayCases": 2368,
+  "over3DayCases": 2369,
   "tracerStats": [
     {
       "name": "Sudha",
@@ -88,9 +88,9 @@
     {
       "name": "Mahfuz",
       "total": 173,
-      "open": 37,
-      "closed": 136,
-      "avgDuration": 3
+      "open": 34,
+      "closed": 139,
+      "avgDuration": 3.1
     },
     {
       "name": "Operations / CS",
@@ -861,7 +861,7 @@
     {
       "month": "2026-09",
       "opened": 318,
-      "closed": 433
+      "closed": 436
     },
     {
       "month": "2026-11",
