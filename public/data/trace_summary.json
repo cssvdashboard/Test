@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-09-13T11:58:00.897Z",
+  "lastUpdated": "2026-09-13T11:58:31.861Z",
   "sourceFileName": "Trace Report.xlsx",
   "totalCases": 10159,
-  "openCases": 568,
-  "closedCases": 9591,
+  "openCases": 565,
+  "closedCases": 9594,
   "resolutionRate": 94.4,
   "avgDurationDays": 2.7,
   "over3DayCases": 2371,
@@ -88,8 +88,8 @@
     {
       "name": "Mahfuz",
       "total": 173,
-      "open": 34,
-      "closed": 139,
+      "open": 31,
+      "closed": 142,
       "avgDuration": 3.1
     },
     {
