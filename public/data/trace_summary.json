@@ -1,0 +1,877 @@
+{
+  "lastUpdated": "2026-09-13T07:11:11.402Z",
+  "sourceFileName": "Trace Report.xlsx",
+  "totalCases": 12079,
+  "openCases": 2495,
+  "closedCases": 9584,
+  "resolutionRate": 79.3,
+  "avgDurationDays": 2.7,
+  "over3DayCases": 2365,
+  "tracerStats": [
+    {
+      "name": "Shihab",
+      "total": 3252,
+      "open": 2104,
+      "closed": 1148,
+      "avgDuration": 4.4
+    },
+    {
+      "name": "Sudha",
+      "total": 1941,
+      "open": 3,
+      "closed": 1938,
+      "avgDuration": 1.8
+    },
+    {
+      "name": "Wasim",
+      "total": 1864,
+      "open": 7,
+      "closed": 1857,
+      "avgDuration": 1.9
+    },
+    {
+      "name": "Shishir",
+      "total": 1795,
+      "open": 226,
+      "closed": 1569,
+      "avgDuration": 3.1
+    },
+    {
+      "name": "Evans",
+      "total": 1115,
+      "open": 19,
+      "closed": 1096,
+      "avgDuration": 2.7
+    },
+    {
+      "name": "Halima",
+      "total": 466,
+      "open": 31,
+      "closed": 435,
+      "avgDuration": 2.4
+    },
+    {
+      "name": "Hasib",
+      "total": 375,
+      "open": 7,
+      "closed": 368,
+      "avgDuration": 2.3
+    },
+    {
+      "name": "Louis",
+      "total": 336,
+      "open": 4,
+      "closed": 332,
+      "avgDuration": 3.4
+    },
+    {
+      "name": "Selim",
+      "total": 268,
+      "open": 10,
+      "closed": 258,
+      "avgDuration": 4.4
+    },
+    {
+      "name": "Shuvo",
+      "total": 231,
+      "open": 15,
+      "closed": 216,
+      "avgDuration": 2.7
+    },
+    {
+      "name": "Zahid",
+      "total": 189,
+      "open": 4,
+      "closed": 185,
+      "avgDuration": 2.5
+    },
+    {
+      "name": "Mahfuz",
+      "total": 173,
+      "open": 38,
+      "closed": 135,
+      "avgDuration": 3
+    },
+    {
+      "name": "Operations / CS",
+      "total": 72,
+      "open": 27,
+      "closed": 45,
+      "avgDuration": 5.2
+    },
+    {
+      "name": "sudha",
+      "total": 2,
+      "open": 0,
+      "closed": 2,
+      "avgDuration": 2.1
+    }
+  ],
+  "categoryStats": [
+    {
+      "category": "General Trace",
+      "count": 2025
+    },
+    {
+      "category": "Pickup Request",
+      "count": 1638
+    },
+    {
+      "category": "Manufacturer Name & Address",
+      "count": 1463
+    },
+    {
+      "category": "Invoice Missing",
+      "count": 810
+    },
+    {
+      "category": "Clearance Delay",
+      "count": 773
+    },
+    {
+      "category": "Scan Delay",
+      "count": 679
+    },
+    {
+      "category": "Fabric Measurement",
+      "count": 316
+    },
+    {
+      "category": "Transit Delay",
+      "count": 314
+    },
+    {
+      "category": "NFBRK/BSO",
+      "count": 307
+    },
+    {
+      "category": "Incorrect Address",
+      "count": 261
+    },
+    {
+      "category": "Unable to Collect Payment",
+      "count": 233
+    },
+    {
+      "category": "Clearance Instruction",
+      "count": 227
+    },
+    {
+      "category": "Monitoring",
+      "count": 226
+    },
+    {
+      "category": "Priority Delivery",
+      "count": 224
+    },
+    {
+      "category": "Contact Details of Consignee",
+      "count": 195
+    },
+    {
+      "category": "Insufficient Description",
+      "count": 182
+    },
+    {
+      "category": "Business Closed",
+      "count": 119
+    },
+    {
+      "category": "LOA",
+      "count": 107
+    },
+    {
+      "category": "Inspection",
+      "count": 104
+    },
+    {
+      "category": "Priority delivery",
+      "count": 102
+    },
+    {
+      "category": "Held for Duty Tax",
+      "count": 95
+    },
+    {
+      "category": "Invoice Unclear",
+      "count": 95
+    },
+    {
+      "category": "CPSC Form",
+      "count": 85
+    },
+    {
+      "category": "Address Change",
+      "count": 83
+    },
+    {
+      "category": "DEX17-Customer requested future delivery",
+      "count": 79
+    },
+    {
+      "category": "Dispute POD",
+      "count": 76
+    },
+    {
+      "category": "Value Understated",
+      "count": 76
+    },
+    {
+      "category": "Refused by Consignee",
+      "count": 67
+    },
+    {
+      "category": "DEX93-Unable to collect duty/tax",
+      "count": 63
+    },
+    {
+      "category": "Proof of Payment",
+      "count": 61
+    },
+    {
+      "category": "DEX03-Incorrect address",
+      "count": 61
+    },
+    {
+      "category": "Lost",
+      "count": 58
+    },
+    {
+      "category": "Future Delivery Requested",
+      "count": 52
+    },
+    {
+      "category": "Not Attempt",
+      "count": 50
+    },
+    {
+      "category": "DEX08-Consignee office found closed",
+      "count": 47
+    },
+    {
+      "category": "MID Code",
+      "count": 44
+    },
+    {
+      "category": "Rebill Request",
+      "count": 43
+    },
+    {
+      "category": "Damage",
+      "count": 38
+    },
+    {
+      "category": "Importer Number",
+      "count": 33
+    },
+    {
+      "category": "CPSC From",
+      "count": 32
+    },
+    {
+      "category": "No Requirement",
+      "count": 30
+    },
+    {
+      "category": "Value Breakdown",
+      "count": 26
+    },
+    {
+      "category": "KYC",
+      "count": 25
+    },
+    {
+      "category": "Available for Pickup",
+      "count": 24
+    },
+    {
+      "category": "Product Composition",
+      "count": 24
+    },
+    {
+      "category": "Value Mismatch",
+      "count": 22
+    },
+    {
+      "category": "Misdelivered",
+      "count": 22
+    },
+    {
+      "category": "Clearance delay",
+      "count": 20
+    },
+    {
+      "category": "Knit or Woven",
+      "count": 18
+    },
+    {
+      "category": "Drop Ball Certificate",
+      "count": 18
+    },
+    {
+      "category": "EORI Number",
+      "count": 18
+    },
+    {
+      "category": "Delay Delivery",
+      "count": 18
+    },
+    {
+      "category": "HS Code",
+      "count": 16
+    },
+    {
+      "category": "Missort",
+      "count": 16
+    },
+    {
+      "category": "Available For Pickup",
+      "count": 16
+    },
+    {
+      "category": "HAL-Self pick-up requested",
+      "count": 13
+    },
+    {
+      "category": "DEX07-Consignee refused shipment",
+      "count": 10
+    },
+    {
+      "category": "MPS Issue",
+      "count": 9
+    },
+    {
+      "category": "Dispute pod",
+      "count": 9
+    },
+    {
+      "category": "Return request",
+      "count": 9
+    },
+    {
+      "category": "CPSC",
+      "count": 8
+    },
+    {
+      "category": "Need POD Confirmation",
+      "count": 8
+    },
+    {
+      "category": "Rebill to Shipper",
+      "count": 8
+    },
+    {
+      "category": "RTS",
+      "count": 8
+    },
+    {
+      "category": "Transit delay",
+      "count": 7
+    },
+    {
+      "category": "Fruad Shipemnt",
+      "count": 6
+    },
+    {
+      "category": "Footwear Declearation",
+      "count": 6
+    },
+    {
+      "category": "Scan delay",
+      "count": 6
+    },
+    {
+      "category": "DEX01 - package not delivered/not attempted",
+      "count": 6
+    },
+    {
+      "category": "Wrong Queue",
+      "count": 5
+    },
+    {
+      "category": "Overage",
+      "count": 5
+    },
+    {
+      "category": "Empty Package",
+      "count": 5
+    },
+    {
+      "category": "value understated",
+      "count": 4
+    },
+    {
+      "category": "Overweight Approval",
+      "count": 4
+    },
+    {
+      "category": "STAT 42 - business closed - delivery not attempted",
+      "count": 4
+    },
+    {
+      "category": "monitoring",
+      "count": 3
+    },
+    {
+      "category": "Not Forwarded form BD",
+      "count": 3
+    },
+    {
+      "category": "Not attempt",
+      "count": 3
+    },
+    {
+      "category": "DEX12 - package sorted to wrong route",
+      "count": 3
+    },
+    {
+      "category": "Address change",
+      "count": 3
+    },
+    {
+      "category": "Address Chanage",
+      "count": 2
+    },
+    {
+      "category": "VAT Number",
+      "count": 2
+    },
+    {
+      "category": "Item Missing",
+      "count": 2
+    },
+    {
+      "category": "Clarify Gender",
+      "count": 2
+    },
+    {
+      "category": "Detailed Classification of Goods",
+      "count": 2
+    },
+    {
+      "category": "EIN Number",
+      "count": 2
+    },
+    {
+      "category": "TSCA",
+      "count": 2
+    },
+    {
+      "category": "kyc",
+      "count": 2
+    },
+    {
+      "category": "Returned to Shipper",
+      "count": 2
+    },
+    {
+      "category": "Incorrect address",
+      "count": 2
+    },
+    {
+      "category": "Refused By Consignee",
+      "count": 2
+    },
+    {
+      "category": "Certificate of Origin",
+      "count": 2
+    },
+    {
+      "category": "Seized/Detained",
+      "count": 2
+    },
+    {
+      "category": "FDA Prior Notice",
+      "count": 2
+    },
+    {
+      "category": "Service Disruption",
+      "count": 2
+    },
+    {
+      "category": "Business closed",
+      "count": 2
+    },
+    {
+      "category": "Stat63-Held for duty/tax",
+      "count": 2
+    },
+    {
+      "category": "WRONG TRACE OPENED",
+      "count": 2
+    },
+    {
+      "category": "Future Delivery",
+      "count": 2
+    },
+    {
+      "category": "MONITOR",
+      "count": 2
+    },
+    {
+      "category": "reroute request",
+      "count": 2
+    },
+    {
+      "category": "55",
+      "count": 1
+    },
+    {
+      "category": "93",
+      "count": 1
+    },
+    {
+      "category": "Monitoirng",
+      "count": 1
+    },
+    {
+      "category": "Reroute Request",
+      "count": 1
+    },
+    {
+      "category": "Watch Worksheet",
+      "count": 1
+    },
+    {
+      "category": "Refused to accept",
+      "count": 1
+    },
+    {
+      "category": "Country Of Origin",
+      "count": 1
+    },
+    {
+      "category": "RTS - Shipper Request",
+      "count": 1
+    },
+    {
+      "category": "Requested For Hold",
+      "count": 1
+    },
+    {
+      "category": "Unable to collect payment",
+      "count": 1
+    },
+    {
+      "category": "Duty tax rebill to the shipper a/c 209534164",
+      "count": 1
+    },
+    {
+      "category": "Phytosanitary Certificate",
+      "count": 1
+    },
+    {
+      "category": "Fraud shipment",
+      "count": 1
+    },
+    {
+      "category": "RTS- cnee req",
+      "count": 1
+    },
+    {
+      "category": "Have latest physical Scan",
+      "count": 1
+    },
+    {
+      "category": "IPD – Under Monitoring",
+      "count": 1
+    },
+    {
+      "category": "Hold at SIN, Mail Sent/Trace creation done",
+      "count": 1
+    },
+    {
+      "category": "Need to Claim",
+      "count": 1
+    },
+    {
+      "category": "PKG RECVD EMPTY NO CONTENT",
+      "count": 1
+    },
+    {
+      "category": "NFBRK",
+      "count": 1
+    },
+    {
+      "category": "LOST- mailed to shipper for",
+      "count": 1
+    },
+    {
+      "category": "STAT 65-03 june",
+      "count": 1
+    },
+    {
+      "category": "Stop Delivery",
+      "count": 1
+    },
+    {
+      "category": "Service change",
+      "count": 1
+    },
+    {
+      "category": "HOLD",
+      "count": 1
+    },
+    {
+      "category": "Need Abandon",
+      "count": 1
+    }
+  ],
+  "caseTypeStats": [
+    {
+      "caseType": "Clearance",
+      "count": 5290
+    },
+    {
+      "caseType": "Standard Trace",
+      "count": 1942
+    },
+    {
+      "caseType": "Package Research",
+      "count": 1877
+    },
+    {
+      "caseType": "Remote Pickup Inquiry",
+      "count": 1062
+    },
+    {
+      "caseType": "Recipient Information Needed",
+      "count": 1056
+    },
+    {
+      "caseType": "Remote Pickup Request",
+      "count": 590
+    },
+    {
+      "caseType": "Service Change",
+      "count": 112
+    },
+    {
+      "caseType": "Billing",
+      "count": 55
+    },
+    {
+      "caseType": "Claim",
+      "count": 53
+    },
+    {
+      "caseType": "FedEx International Priority",
+      "count": 17
+    },
+    {
+      "caseType": "FEDEX_INTERNATIONAL_PRIORITY",
+      "count": 6
+    },
+    {
+      "caseType": "Dispatch",
+      "count": 6
+    },
+    {
+      "caseType": "International Economy",
+      "count": 4
+    },
+    {
+      "caseType": "Service change",
+      "count": 2
+    },
+    {
+      "caseType": "clearance",
+      "count": 1
+    },
+    {
+      "caseType": "Service Change (SCQ)",
+      "count": 1
+    },
+    {
+      "caseType": "PR",
+      "count": 1
+    },
+    {
+      "caseType": "rebill",
+      "count": 1
+    },
+    {
+      "caseType": "service change",
+      "count": 1
+    },
+    {
+      "caseType": "Duty & TAx rebill",
+      "count": 1
+    },
+    {
+      "caseType": "Remote pickup Inquiry",
+      "count": 1
+    }
+  ],
+  "topCountries": [
+    {
+      "country": "US",
+      "count": 3708
+    },
+    {
+      "country": "Unknown",
+      "count": 1940
+    },
+    {
+      "country": "US - United States",
+      "count": 751
+    },
+    {
+      "country": "ES",
+      "count": 278
+    },
+    {
+      "country": "IT",
+      "count": 258
+    },
+    {
+      "country": "FR",
+      "count": 212
+    },
+    {
+      "country": "DE",
+      "count": 206
+    },
+    {
+      "country": "BR",
+      "count": 195
+    },
+    {
+      "country": "CN",
+      "count": 190
+    },
+    {
+      "country": "CA",
+      "count": 184
+    },
+    {
+      "country": "GB",
+      "count": 183
+    },
+    {
+      "country": "VN",
+      "count": 161
+    },
+    {
+      "country": "IT - Italy",
+      "count": 158
+    },
+    {
+      "country": "IN",
+      "count": 147
+    },
+    {
+      "country": "DK",
+      "count": 135
+    }
+  ],
+  "topShippers": [
+    {
+      "shipper": "Unspecified Shipper",
+      "count": 2157
+    },
+    {
+      "shipper": "EPIC GARMENTS MANUFACTURING CO. LTD",
+      "count": 208
+    },
+    {
+      "shipper": "Unknown, check eOPS",
+      "count": 132
+    },
+    {
+      "shipper": "HOORAIN HTF LTD.",
+      "count": 94
+    },
+    {
+      "shipper": "DREAM FASHION WEAR",
+      "count": 94
+    },
+    {
+      "shipper": "SQ CELSIUS LIMITED",
+      "count": 63
+    },
+    {
+      "shipper": "PALMAL GROUP",
+      "count": 60
+    },
+    {
+      "shipper": "JINNAT KNITWEARS LTD.",
+      "count": 49
+    },
+    {
+      "shipper": "THE NEED APPARELS LTD",
+      "count": 48
+    },
+    {
+      "shipper": "ZABER ZUBAIR FABRICS FASHION",
+      "count": 48
+    },
+    {
+      "shipper": "BIG BOSS CORPORATION LTD.",
+      "count": 47
+    },
+    {
+      "shipper": "BSA APPAREL LIMITED.",
+      "count": 47
+    },
+    {
+      "shipper": "DENIMACH LTD",
+      "count": 45
+    },
+    {
+      "shipper": "WINGFAT ENTERPRISE LTD",
+      "count": 44
+    },
+    {
+      "shipper": "ELITE GARMENTS IND. LTD.",
+      "count": 39
+    }
+  ],
+  "monthlyTrend": [
+    {
+      "month": "2026-03",
+      "opened": 0,
+      "closed": 1
+    },
+    {
+      "month": "2026-04",
+      "opened": 2,
+      "closed": 1543
+    },
+    {
+      "month": "2026-05",
+      "opened": 257,
+      "closed": 2140
+    },
+    {
+      "month": "2026-06",
+      "opened": 398,
+      "closed": 1684
+    },
+    {
+      "month": "2026-07",
+      "opened": 319,
+      "closed": 1985
+    },
+    {
+      "month": "2026-08",
+      "opened": 599,
+      "closed": 1859
+    },
+    {
+      "month": "2026-09",
+      "opened": 317,
+      "closed": 429
+    },
+    {
+      "month": "2026-11",
+      "opened": 0,
+      "closed": 2
+    },
+    {
+      "month": "2026-12",
+      "opened": 0,
+      "closed": 1
+    }
+  ]
+}
