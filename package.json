@@ -8,6 +8,7 @@
     "build": "node scripts/compile_data.cjs && tsc -b && vite build",
     "build:quick": "tsc -b && vite build",
     "compile:data": "node scripts/compile_data.cjs",
+    "auto-sync": "node scripts/auto_sync.cjs",
     "preview": "vite preview"
   },
   "dependencies": {
