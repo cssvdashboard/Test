@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-09-13T11:27:36.422Z",
+  "lastUpdated": "2026-09-13T11:28:24.637Z",
   "sourceFileName": "Trace Report.xlsx",
   "totalCases": 10159,
   "openCases": 573,
   "closedCases": 9586,
   "resolutionRate": 94.4,
   "avgDurationDays": 2.7,
-  "over3DayCases": 2369,
+  "over3DayCases": 2368,
   "tracerStats": [
     {
       "name": "Sudha",
@@ -126,7 +126,7 @@
     },
     {
       "category": "Scan Delay",
-      "count": 679
+      "count": 680
     },
     {
       "category": "Fabric Measurement",
@@ -178,7 +178,7 @@
     },
     {
       "category": "General Trace",
-      "count": 105
+      "count": 104
     },
     {
       "category": "Inspection",
@@ -652,18 +652,18 @@
     },
     {
       "caseType": "Standard Trace",
-      "count": 21
+      "count": 20
     },
     {
       "caseType": "FedEx International Priority",
       "count": 17
     },
     {
-      "caseType": "FEDEX_INTERNATIONAL_PRIORITY",
-      "count": 6
+      "caseType": "Dispatch",
+      "count": 7
     },
     {
-      "caseType": "Dispatch",
+      "caseType": "FEDEX_INTERNATIONAL_PRIORITY",
       "count": 6
     },
     {
@@ -710,7 +710,7 @@
     },
     {
       "country": "US - United States",
-      "count": 751
+      "count": 752
     },
     {
       "country": "ES",
@@ -768,7 +768,7 @@
   "topShippers": [
     {
       "shipper": "Unspecified Shipper",
-      "count": 236
+      "count": 235
     },
     {
       "shipper": "EPIC GARMENTS MANUFACTURING CO. LTD",
