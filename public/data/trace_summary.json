@@ -1,20 +1,13 @@
 {
-  "lastUpdated": "2026-09-13T10:38:59.132Z",
+  "lastUpdated": "2026-09-13T10:40:06.691Z",
   "sourceFileName": "Trace Report.xlsx",
-  "totalCases": 12079,
-  "openCases": 2494,
+  "totalCases": 10158,
+  "openCases": 573,
   "closedCases": 9585,
-  "resolutionRate": 79.4,
+  "resolutionRate": 94.4,
   "avgDurationDays": 2.7,
   "over3DayCases": 2366,
   "tracerStats": [
-    {
-      "name": "Shihab",
-      "total": 3252,
-      "open": 2104,
-      "closed": 1148,
-      "avgDuration": 4.4
-    },
     {
       "name": "Sudha",
       "total": 1941,
@@ -35,6 +28,13 @@
       "open": 226,
       "closed": 1569,
       "avgDuration": 3.1
+    },
+    {
+      "name": "Shihab",
+      "total": 1331,
+      "open": 183,
+      "closed": 1148,
+      "avgDuration": 4.4
     },
     {
       "name": "Evans",
@@ -109,10 +109,6 @@
   ],
   "categoryStats": [
     {
-      "category": "General Trace",
-      "count": 2025
-    },
-    {
       "category": "Pickup Request",
       "count": 1638
     },
@@ -179,6 +175,10 @@
     {
       "category": "LOA",
       "count": 107
+    },
+    {
+      "category": "General Trace",
+      "count": 104
     },
     {
       "category": "Inspection",
@@ -623,10 +623,6 @@
       "count": 5290
     },
     {
-      "caseType": "Standard Trace",
-      "count": 1942
-    },
-    {
       "caseType": "Package Research",
       "count": 1877
     },
@@ -653,6 +649,10 @@
     {
       "caseType": "Claim",
       "count": 53
+    },
+    {
+      "caseType": "Standard Trace",
+      "count": 21
     },
     {
       "caseType": "FedEx International Priority",
@@ -709,10 +709,6 @@
       "count": 3708
     },
     {
-      "country": "Unknown",
-      "count": 1940
-    },
-    {
       "country": "US - United States",
       "count": 751
     },
@@ -763,12 +759,16 @@
     {
       "country": "DK",
       "count": 135
+    },
+    {
+      "country": "DK - Denmark",
+      "count": 131
     }
   ],
   "topShippers": [
     {
       "shipper": "Unspecified Shipper",
-      "count": 2157
+      "count": 236
     },
     {
       "shipper": "EPIC GARMENTS MANUFACTURING CO. LTD",
