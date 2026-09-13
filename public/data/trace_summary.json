@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-09-13T11:48:44.203Z",
+  "lastUpdated": "2026-09-13T11:49:55.406Z",
   "sourceFileName": "Trace Report.xlsx",
   "totalCases": 10159,
   "openCases": 568,
   "closedCases": 9591,
   "resolutionRate": 94.4,
   "avgDurationDays": 2.7,
-  "over3DayCases": 2370,
+  "over3DayCases": 2371,
   "tracerStats": [
     {
       "name": "Sudha",
@@ -861,7 +861,7 @@
     {
       "month": "2026-09",
       "opened": 318,
-      "closed": 438
+      "closed": 440
     },
     {
       "month": "2026-11",
