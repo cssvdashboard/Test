@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-09-13T11:38:26.838Z",
+  "lastUpdated": "2026-09-13T11:39:16.909Z",
   "sourceFileName": "Trace Report.xlsx",
   "totalCases": 10159,
-  "openCases": 570,
-  "closedCases": 9589,
+  "openCases": 568,
+  "closedCases": 9591,
   "resolutionRate": 94.4,
   "avgDurationDays": 2.7,
   "over3DayCases": 2369,
@@ -53,8 +53,8 @@
     {
       "name": "Hasib",
       "total": 375,
-      "open": 7,
-      "closed": 368,
+      "open": 5,
+      "closed": 370,
       "avgDuration": 2.3
     },
     {
@@ -861,7 +861,7 @@
     {
       "month": "2026-09",
       "opened": 318,
-      "closed": 436
+      "closed": 437
     },
     {
       "month": "2026-11",
