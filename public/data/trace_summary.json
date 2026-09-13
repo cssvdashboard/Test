@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-09-13T12:59:13.710Z",
+  "lastUpdated": "2026-09-13T13:01:20.942Z",
   "sourceFileName": "Trace Report.xlsx",
   "totalCases": 10158,
-  "openCases": 563,
-  "closedCases": 9595,
+  "openCases": 562,
+  "closedCases": 9596,
   "resolutionRate": 94.5,
   "avgDurationDays": 2.7,
   "over3DayCases": 2371,
@@ -67,8 +67,8 @@
     {
       "name": "Selim",
       "total": 268,
-      "open": 10,
-      "closed": 258,
+      "open": 9,
+      "closed": 259,
       "avgDuration": 4.4
     },
     {
@@ -861,7 +861,7 @@
     {
       "month": "2026-09",
       "opened": 318,
-      "closed": 448
+      "closed": 449
     },
     {
       "month": "2026-11",
