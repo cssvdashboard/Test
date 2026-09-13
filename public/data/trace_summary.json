@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-09-13T10:51:55.340Z",
+  "lastUpdated": "2026-09-13T10:52:45.441Z",
   "sourceFileName": "Trace Report.xlsx",
-  "totalCases": 10158,
-  "openCases": 573,
+  "totalCases": 10159,
+  "openCases": 574,
   "closedCases": 9585,
-  "resolutionRate": 94.4,
+  "resolutionRate": 94.3,
   "avgDurationDays": 2.7,
   "over3DayCases": 2366,
   "tracerStats": [
@@ -94,8 +94,8 @@
     },
     {
       "name": "Operations / CS",
-      "total": 72,
-      "open": 27,
+      "total": 73,
+      "open": 28,
       "closed": 45,
       "avgDuration": 5.2
     },
@@ -178,7 +178,7 @@
     },
     {
       "category": "General Trace",
-      "count": 104
+      "count": 105
     },
     {
       "category": "Inspection",
@@ -644,7 +644,7 @@
     },
     {
       "caseType": "Billing",
-      "count": 55
+      "count": 56
     },
     {
       "caseType": "Claim",
@@ -768,7 +768,7 @@
   "topShippers": [
     {
       "shipper": "Unspecified Shipper",
-      "count": 236
+      "count": 237
     },
     {
       "shipper": "EPIC GARMENTS MANUFACTURING CO. LTD",
