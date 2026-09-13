@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-09-13T12:16:36.711Z",
+  "lastUpdated": "2026-09-13T12:17:47.974Z",
   "sourceFileName": "Trace Report.xlsx",
-  "totalCases": 10159,
-  "openCases": 564,
+  "totalCases": 10158,
+  "openCases": 563,
   "closedCases": 9595,
-  "resolutionRate": 94.4,
+  "resolutionRate": 94.5,
   "avgDurationDays": 2.7,
   "over3DayCases": 2371,
   "tracerStats": [
@@ -31,8 +31,8 @@
     },
     {
       "name": "Shihab",
-      "total": 1331,
-      "open": 183,
+      "total": 1330,
+      "open": 182,
       "closed": 1148,
       "avgDuration": 4.4
     },
@@ -126,7 +126,7 @@
     },
     {
       "category": "Scan Delay",
-      "count": 680
+      "count": 679
     },
     {
       "category": "Fabric Measurement",
@@ -659,11 +659,11 @@
       "count": 17
     },
     {
-      "caseType": "Dispatch",
-      "count": 7
+      "caseType": "FEDEX_INTERNATIONAL_PRIORITY",
+      "count": 6
     },
     {
-      "caseType": "FEDEX_INTERNATIONAL_PRIORITY",
+      "caseType": "Dispatch",
       "count": 6
     },
     {
@@ -710,7 +710,7 @@
     },
     {
       "country": "US - United States",
-      "count": 752
+      "count": 751
     },
     {
       "country": "ES",
@@ -861,7 +861,7 @@
     {
       "month": "2026-09",
       "opened": 318,
-      "closed": 449
+      "closed": 448
     },
     {
       "month": "2026-11",
