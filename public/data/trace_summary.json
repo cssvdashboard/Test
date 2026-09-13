@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-09-13T11:46:39.699Z",
+  "lastUpdated": "2026-09-13T11:47:36.039Z",
   "sourceFileName": "Trace Report.xlsx",
   "totalCases": 10159,
   "openCases": 568,
   "closedCases": 9591,
   "resolutionRate": 94.4,
   "avgDurationDays": 2.7,
-  "over3DayCases": 2369,
+  "over3DayCases": 2370,
   "tracerStats": [
     {
       "name": "Sudha",
@@ -110,7 +110,7 @@
   "categoryStats": [
     {
       "category": "Pickup Request",
-      "count": 1638
+      "count": 1605
     },
     {
       "category": "Manufacturer Name & Address",
@@ -169,16 +169,16 @@
       "count": 182
     },
     {
+      "category": "General Trace",
+      "count": 137
+    },
+    {
       "category": "Business Closed",
       "count": 119
     },
     {
       "category": "LOA",
       "count": 107
-    },
-    {
-      "category": "General Trace",
-      "count": 104
     },
     {
       "category": "Inspection",
@@ -861,7 +861,7 @@
     {
       "month": "2026-09",
       "opened": 318,
-      "closed": 437
+      "closed": 438
     },
     {
       "month": "2026-11",
